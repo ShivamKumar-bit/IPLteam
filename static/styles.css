@@ -257,7 +257,8 @@ body{
 }
 .result-p{
 	text-align: center;
-	font-size: large;
+	font-size: 50px;
+	background:#222831;
 	color: rgb(24, 236, 165);
 }
 .danger{
