@@ -5,10 +5,16 @@ html{
 
 
 body{
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'barlow';
 	height: 100%;
 	margin: 0;
 	background-color: #ffffff;
+  background-image: url("https://cdn.wallpapersafari.com/39/24/Ub4aOm.jpg");
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* Website Title */
