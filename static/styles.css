@@ -199,6 +199,14 @@ body{
 	text-decoration:none;
 	transition: 0.5s ease-out;
 }
+.p{
+	font-style: oblique;
+	font-size: large;
+	text-decoration-style: solid;
+	color: aquamarine;
+	
+
+}
 
 .myButton:hover{
 	background-color: #E9E9E9;
