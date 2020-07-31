@@ -250,7 +250,11 @@ body{
   line-height: 400px;
   text-align: center;
 }
-
+.result-p{
+	text-align: center;
+	font-size: large;
+	color: rgb(24, 236, 165);
+}
 .danger{
     color: #ff0000;
 }
