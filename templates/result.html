@@ -28,8 +28,8 @@
 
                 <div class="slider-frame">
                     <div class="slide-images-up">
-
                         <!-- Image-1 -->
+
                         <div class="image-container">
                             <img class="image-width" src="{{ url_for('static', filename='mi.jpg') }}" alt="Mumbai Indians">
                         </div>
@@ -68,9 +68,11 @@
             </div>
 
 			<!-- Result -->
-			<div class="results">
-				<div class="resultans">The final predicted score (range): {{ lower_limit }} to {{ upper_limit }}</div>
-			</div>
+			
+		<div class="resultans">
+			The final predicted score (range): {{ lower_limit }} to {{ upper_limit }}
+		</div>
+			
 
             <!-- IPL Banner - 2 -->
             <div class='ipl-banner-right'>
