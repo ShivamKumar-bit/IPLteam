@@ -68,13 +68,20 @@ body{
 	box-shadow: 7px 6px 18px -2px rgba(94,94,94,0.61);
 }
 
-.div2, .results{
+.div2{
 	display: inline-block;
 	width: auto;
 	height: 429px;
 	text-align: center;
 }
-
+.results{
+	display: inline-block;
+	width: auto;
+	height: 429px;
+	text-align: center;
+	font-size: large;
+	color: rgb(127, 255, 212);
+}	
 .ipl-banner-right{
 	display: inline-block;
 	width: 284px;
