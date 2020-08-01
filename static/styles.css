@@ -256,10 +256,12 @@ body{
   text-align: center;
 }
 .result-p{
-	text-align: center;
-	font-size: 50px;
-	background:#222831;
-	color: rgb(24, 236, 165);
+	background-color:#222831;
+	border-radius:50px;
+	color: #f0f2f5;
+	padding:0 50px 0 50px;
+	line-height:50px;
+		
 }
 .danger{
     color: #ff0000;
